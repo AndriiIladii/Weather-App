@@ -1,4 +1,4 @@
-@media only screen and (max-width: 425px) {
+@media only screen and (max-width: 450px) {
   .card {
     width: 90%;
     max-height: 600px;
@@ -36,9 +36,15 @@
   }
 }
 
-@media only screen and (max-width: 380px) {
+@media only screen and (max-width: 425px) {
   .search input {
-    width: 205px;
+    width: 220px;
+  }
+}
+
+@media only screen and (max-width: 395px) {
+  .search input {
+    width: 200px;
   }
 }
 
